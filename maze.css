@@ -1,0 +1,16 @@
+body, html {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+canvas {
+    display: block;
+    margin: 30px auto;
+}
