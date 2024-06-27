@@ -18,3 +18,5 @@ This is a simple web application that generates random, solvable mazes using Dep
 - Each cell of the maze has walls on all four sides initially.
 - The algorithm removes walls between cells to create a solvable maze.
 - The canvas element is used to draw the maze on the web page.
+
+This project was developed and tested by Ryan Northern. If any issues arise, contact ryannorthern@gmail.com. Thanks!
